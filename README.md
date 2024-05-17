@@ -1,5 +1,4 @@
-#👋 Model Deployment in the Cloud <br/> 
-
+#👋 Model Deployment in the Cloud 
 👩🏻‍💻 Name:   Calderon, Ricardo B.  | Balintongog Vincent <br/>  
 👩🏻‍🎓 Course & Section:  CPE019 - CPE32S9 <br/> 
 🎨 Instructor: Engr. Roman Richard <br/>  
